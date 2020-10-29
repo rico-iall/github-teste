@@ -1,3 +1,5 @@
 Hello World!
 
 This is a file to do test the Git.
+
+The changes was excluded and the new comment is write here
